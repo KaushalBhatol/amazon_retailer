@@ -1,6 +1,14 @@
 <h1 align="center">Amazon_Palanpur</h1> 
 <p align="center"><a href="http://amazon-palanpur.ml" target="_blank">View Site</a> | <a href="http://instagram.com/amazon_palanpur/" target="_blank">Support On Instagram</a></p>
 
+## Licence :lock:
+> licence by [The Unlicense](https://github.com/KaushalBhatol/amazon-palanpur-html/blob/master/LICENSE) :key:
+
+- This is free and unencumbered software released into the public domain.
+
+- Anyone is free to copy, modify, publish, use, compile, sell, or distribute this software, either in source code form or as a compiled binary, for any purpose, commercial or non-commercial, and by any means.
+ - if you get any problem please contact me http://kaushal.my-style.in/contact/
+
 ## Purpose :innocent:
 
  - *creating website for selling amazon products.*
