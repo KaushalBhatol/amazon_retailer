@@ -1,4 +1,4 @@
-<h1 align="center">Amazon_Palanpur</h1> 
+<h1 align="center">Amazon Palanpur</h1> 
 <p align="center"><a href="http://amazon-palanpur.ml" target="_blank">View Site</a> | <a href="http://instagram.com/amazon_palanpur/" target="_blank">Support On Instagram</a></p>
 
 ## Licence :lock:
