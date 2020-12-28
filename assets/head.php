@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="../assets/css/styles.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css">
     <link rel="stylesheet" href="https://unpkg.com/@bootstrapstudio/bootstrap-better-nav/dist/bootstrap-better-nav.min.css">
+    <link rel="stylesheet" href="../assets/css/nav.css">
 
 </head>
 
@@ -23,8 +24,8 @@
     <a onclick="closeNav()" href="../">Home</a></li>
     <a onclick="closeNav()" href="../TopDeals">Top Deals</a></li>
     <a onclick="closeNav()" href="../Delivery.php">Delivery Info</a>
-    <a onclick="closeNav()" href="../WoMenClothe">Wome's Dress</a></li>
-    <a onclick="closeNav()" href="../MenClothe">Men's Clothes</a></li>
+    <a onclick="closeNav()" href="../Women_Dress">Wome's Dress</a></li>
+    <a onclick="closeNav()" href="../Men_Clothes">Men's Clothes</a></li>
     <a onclick="closeNav()" href="../Mobile">Mobiles</a>
     <a onclick="closeNav()" href="../Laptop">Laptops</a>
     <a onclick="closeNav()" href="../Other">Other</a>
@@ -36,6 +37,12 @@
         <div class="container-fluid"><a class="navbar-brand"><span style="font-size:30px;cursor:pointer" id="brand-logo" onclick="openNav()">&#9776;</span></a>
         <a href="../" class="navbar-brand">Amazon Palanpur</a>
         </div>
+    </nav>
+<br>
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="/">Amazon Palanpur</a><?php echo $_SERVER['REQUEST_URI']?></li>
+      </ol>
     </nav>
 
 <div id="main">

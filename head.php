@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="assets/css/styles.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css">
     <link rel="stylesheet" href="https://unpkg.com/@bootstrapstudio/bootstrap-better-nav/dist/bootstrap-better-nav.min.css">
+    <link rel="stylesheet" href="assets/css/nav.css">
 
 </head>
 
@@ -23,8 +24,8 @@
     <a onclick="closeNav()" href="index.php">Home</a></li>
     <a onclick="closeNav()" href="TopDeals">Top Deals</a></li>
     <a onclick="closeNav()" href="Delivery.php">Delivery Info</a>
-    <a onclick="closeNav()" href="WoMenClothe">Wome's Dress</a></li>
-    <a onclick="closeNav()" href="MenClothe">Men's Clothes</a></li>
+    <a onclick="closeNav()" href="Women_Dress">Wome's Dress</a></li>
+    <a onclick="closeNav()" href="Men_Clothes">Men's Clothes</a></li>
     <a onclick="closeNav()" href="Mobile">Mobiles</a>
     <a onclick="closeNav()" href="Laptop">Laptops</a>
     <a onclick="closeNav()" href="Other">Other</a>
