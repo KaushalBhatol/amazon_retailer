@@ -93,14 +93,3 @@
     </nav>
 
 <div id="main">
-
-<?php
-  $pd_text = 'Sorry, Product Not Found!';
-  $pd_detail = '';
-  $pd_price = '';
-  $pd_img = '';
-  $pd_link = '';
-
-?>
-
-
