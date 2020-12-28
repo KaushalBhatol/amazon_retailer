@@ -13,7 +13,7 @@
 
 ## v1.1 (Latest)
 
-> update 28,Dec-2020 :star:
+> update (28,Dec-2020) :star:
 - rename WomenClothe to Women_Dress
 - rename MenClothe to Men_Clothes
 - head.php
