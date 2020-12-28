@@ -1,6 +1,6 @@
 <h1 align="center">amazon_palanpur</h1> 
 <p align="right">Version 1.2</p>
-<p align="center"><a href="http://amazon-palanpur.ml/ target="_blank">View Site</a> | <a href="http://instagram.com/amazon_palanpur/" target="_blank">Support On Instagram</a></p>
+<p align="center"><a href="http://amazon-palanpur.ml" target="_blank">View Site</a> | <a href="http://instagram.com/amazon_palanpur/" target="_blank">Support On Instagram</a></p>
 
 ## Purpose :innocent:
 
