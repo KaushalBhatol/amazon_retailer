@@ -9,5 +9,5 @@
     include '../list/2020/Laptop/ASUS_ExpertBook_P1_P1440FA_14_inch_Notebook.php';
 
 //    include 'page.php';
-    include '../assets/footer.php'; 
+    include '../footer.php'; 
 ?>

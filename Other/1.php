@@ -8,5 +8,5 @@
     // This Is Line No 17 
 
     //include 'page.php';
-    include '../assets/footer.php'; 
+    include '../footer.php';
 ?>
