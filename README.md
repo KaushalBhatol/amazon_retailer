@@ -20,7 +20,10 @@
 
 ## v1.1 (Latest)
 
-> update (28,Dec-2020) :star:
+> Log (30,Dec-2020) 
+- footer.php (added php for auto year change.)
+
+> Log (28,Dec-2020) 
 - rename WomenClothe to Women_Dress
 - rename MenClothe to Men_Clothes
 - head.php
