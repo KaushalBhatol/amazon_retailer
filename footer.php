@@ -1,4 +1,7 @@
-<div class="footer-basic"><p class="copyright"style="padding-top: 5px;padding-bottom: 10px;">amazon palanpur © 2020<br></p></div>
+<?php $year = date("Y"); ?>
+
+<div class="footer-basic"><p class="copyright"style="padding-top: 5px;padding-bottom: 10px;">Amazon Palanpur © <?=$year?> <br></p></div>
+
 <script> //Side Nav bar script
 function openNav() {
   document.getElementById("mySidenav").style.width = "250px";
