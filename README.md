@@ -17,7 +17,17 @@
  - we are just retailler.
  - website for peoples help to contact to **Palanpur City** delivery centers.
  
-## v1.2 (Latest) - beta 
+## v1.2 - stable
+> feture :star:
+- All website in single url
+- all pages in tabs
+- active style aplayed
+
+> bug :bug:
+- site load slowely
+- no sharable link for saprate tab.
+- inner page system cant set style active
+
 > Documents :file_folder:
 - log : https://github.com/KaushalBhatol/amazon_palanpur/tree/master/log/v1.2.md
 
