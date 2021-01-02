@@ -18,33 +18,20 @@
  - website for peoples help to contact to **Palanpur City** delivery centers.
  
 ## v1.2 (Latest) - beta 
+> Documents :file_folder:
+- log : log/v1.2.md
+
 > idea :brain:
 - using tabs for every single link action
 - fixing pages
 
-> Log (02,Jan-2021)
-- added
-    + index.tab.php
-    + tab.php
-    + assets/css/tab.css
-    + assets/js/tab.js
 
-- updated list/include.txt
-- removed assets/head.php
-- started v1.2 devlopment
 
 ## v1.1 - stable
-> Repository :file_folder:
+> Documents :file_folder:
+- log : log/v1.1.md
  - v1.1 releases  : https://github.com/KaushalBhatol/amazon_palanpur/releases/tag/v1.1
 
-> Log (30,Dec-2020) 
-- footer.php (added php for auto year change.)
-
-> Log (28,Dec-2020) 
-- rename WomenClothe to Women_Dress
-- rename MenClothe to Men_Clothes
-- head.php
-- assets/head.php
 
 
 ## v1.0

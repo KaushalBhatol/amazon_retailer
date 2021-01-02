@@ -1,24 +1,96 @@
-<?php
-    $title = 'Amazon Palanpur';
-    $Meta_description = 'amazon retailer for palanpur city. also get palanpur amazon delivery centers locations.';
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Amazon Palanpur</title>
+    <meta property="og:type" content="website">
+    <meta name="description" content="amazon retailer for palanpur city. also get palanpur amazon delivery centers locations.">
+    
+    <link rel="icon" type="image/png" sizes="770x774" href="assets/img/icon/amazon.png">
 
-    include 'head.php';
-?>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/styles.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css">
+    <link rel="stylesheet" href="https://unpkg.com/@bootstrapstudio/bootstrap-better-nav/dist/bootstrap-better-nav.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
 
-    <!-- Start: Highlight Blue -->
-    <div class="highlight-blue">
-        <div class="container">
-            <!-- Start: Intro -->
-            <div class="intro">
-                <h2 class="text-center">Get Top Deals With US!</h2>
-                <p class="text-left">get exclusive offers on amazon.in, top deals are available hear.&nbsp;all products are available on palanpur location.&nbsp;<br>to get top deals go to Top Deals option.<br><br>We provide you amazon palanpur delivery centres also, click below to get delivery centre locations.&nbsp;<br></p>
-            </div>
-            <!-- End: Intro -->
-            <!-- Start: Buttons -->
-            <div class="buttons"> 
-                <a class="btn btn-primary" role="button" href="TopDeals">Top Deals</a>
-                <a class="btn btn-primary" role="button" href="Delivery.php">Delivery</a></div>         
-            <!-- End: Buttons -->
+</head>
+
+<div id="mySidenav" class="sidenav">
+
+    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+
+    <a onclick="closeNav()" href="index.php">Home</a></li>
+    <a onclick="closeNav()" href="TopDeals">Top Deals</a></li>
+    <a onclick="closeNav()" href="Delivery.php">Delivery Info</a>
+    <a onclick="closeNav()" href="Women_Dress">Wome's Dress</a></li>
+    <a onclick="closeNav()" href="Men_Clothes">Men's Clothes</a></li>
+    <a onclick="closeNav()" href="Mobile">Mobiles</a>
+    <a onclick="closeNav()" href="Laptop">Laptops</a>
+    <a onclick="closeNav()" href="Other">Other</a>
+
+</div>
+    <!-- Start: gradient-navbar -->
+    <nav class="navbar navbar-dark navbar-expand-md" id="app-navbar">
+        <div class="container-fluid"><a class="navbar-brand"><span style="font-size:30px;cursor:pointer" id="brand-logo" onclick="openNav()">&#9776;</span></a>
+        <a href="index.php" class="navbar-brand">Amazon Palanpur</a>
         </div>
-    </div>
-    <?php include 'footer.php' ?>
+    </nav>
+
+
+<div id="main">             <!-- -----------Body Area :  START ------------------>
+
+    <?php include 'index.page.php'; ?>
+
+</div>             <!-- -----------Body Area :  END ------------------>
+
+<!-- -----------FOOTER Area :  START ------------------>
+
+ <?php $year = date("Y"); ?>
+
+<div class="footer-basic"><p class="copyright"style="padding-top: 5px;padding-bottom: 10px;">Amazon Palanpur © <?=$year?> <br></p></div>
+
+<script> 
+//---------------Side Nav bar script ----------------------
+
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+  document.getElementById("main").style.marginLeft = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+  document.getElementById("main").style.marginLeft= "0";
+}
+
+// -------------- tab css -----------------------
+
+function openTab(evt, tabName) {
+  // Declare all variables
+  var i, tabcontent, tablinks;
+
+  // Get all elements with class="tabcontent" and hide them
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+
+  // Get all elements with class="tablinks" and remove the class "active"
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+
+  // Show the current tab, and add an "active" class to the button that opened the tab
+  document.getElementById(tabName).style.display = "block";
+  evt.currentTarget.className += " active";
+} 
+
+    document.getElementById("defaultOpen").click();
+</script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.js"></script>
+<script src="https://unpkg.com/@bootstrapstudio/bootstrap-better-nav/dist/bootstrap-better-nav.min.js"></script>
