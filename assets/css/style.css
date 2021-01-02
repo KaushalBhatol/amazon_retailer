@@ -1,4 +1,8 @@
-        /* ------------- NAVIGATION Style */
+ a {
+   cursor: pointer;
+ }
+ 
+ /* ------------- NAVIGATION Style */
 
 #brand-logo{font-size:34px}
 #app-navbar{background:linear-gradient(120deg,#00e4d0,blue)}
@@ -22,6 +26,9 @@
   color: white;
   display: block;
   transition: 0.3s;
+}
+.sidenav a.activeTab {
+  background-color: blue;
 }
 .sidenav a:hover {
   background-color: blue;

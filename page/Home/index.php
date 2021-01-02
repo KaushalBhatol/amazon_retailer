@@ -9,8 +9,8 @@
             <!-- End: Intro -->
             <!-- Start: Buttons -->
             <div class="buttons"> 
-                <a class="btn btn-primary" role="button" href="TopDeals">Top Deals</a>
-                <a class="btn btn-primary" role="button" href="Delivery.php">Delivery</a></div>         
+                <a class="btn btn-primary" role="button" onclick="openTab(event, 'Top_Deals')">Top Deals</a>
+                <a class="btn btn-primary" role="button" onclick="openTab(event, 'Delivery')">Delivery</a></div>         
             <!-- End: Buttons -->
         </div>
     </div>

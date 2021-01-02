@@ -1,9 +1,4 @@
-<?php
-    $title = 'Delivery | amazon palanpur ';
-    $Meta_description = 'amazon Palanpur Delivery Locations and Number.';
 
-    include 'head.php';
-?>
     <!-- Start: Notice Text -->
     <div class="container" style="background: #d8d9de;">
         <p style="font-size: 20px;text-align: center;">Amazon Delivery</p>
@@ -46,4 +41,3 @@
         <!-- End: Blue Dart Delivery -->
     </div>
     <!-- End: address -->
-<?php include 'footer.php';?>

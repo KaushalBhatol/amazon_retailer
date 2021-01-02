@@ -5,4 +5,4 @@ $PD_price = '329 - 699';
 $PD_img = 'https://images-na.ssl-images-amazon.com/images/I/61TMn-6kYUL._UL1440_.jpg'; 
 $PD_link = 'https://amzn.to/2JGoizt'; 
 
-include '../assets/PD.php';
+include 'components/PD.php';

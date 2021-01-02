@@ -21,14 +21,14 @@
 
     <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
 
-    <a onclick="closeNav()" href="index.php">Home</a></li>
-    <a onclick="closeNav()" href="TopDeals">Top Deals</a></li>
-    <a onclick="closeNav()" href="Delivery.php">Delivery Info</a>
-    <a onclick="closeNav()" href="Women_Dress">Wome's Dress</a></li>
-    <a onclick="closeNav()" href="Men_Clothes">Men's Clothes</a></li>
-    <a onclick="closeNav()" href="Mobile">Mobiles</a>
-    <a onclick="closeNav()" href="Laptop">Laptops</a>
-    <a onclick="closeNav()" href="Other">Other</a>
+    <a class='tablinks' onclick="closeNav(), openTab(event, 'Home')" id="defaultOpen">Home</a></li>
+    <a class='tablinks' onclick="closeNav(), openTab(event, 'Top_Deals')" >Top Deals</a></li>
+    <a class='tablinks' onclick="closeNav(), openTab(event, 'Delivery')">Delivery Info</a>
+    <a class='tablinks' onclick="closeNav(), openTab(event, 'Women_Dress')" >Wome's Dress</a></li>
+    <a class='tablinks' onclick="closeNav(), openTab(event, 'Men_Clothes')" >Men's Clothes</a></li>
+    <a class='tablinks' onclick="closeNav(), openTab(event, 'Mobiles')" >Mobiles</a>
+    <a class='tablinks' onclick="closeNav(), openTab(event, 'Laptops')" >Laptops</a>
+    <a class='tablinks' onclick="closeNav(), openTab(event, 'Other')" >Other</a>
 
 </div>
     <!-- Start: gradient-navbar -->
@@ -41,7 +41,7 @@
 
 <div id="main">             <!-- -----------Body Area :  START ------------------>
 
-    <?php include 'index.page.php'; ?>
+    <?php include 'tab.link.php'; ?>
 
 </div>             <!-- -----------Body Area :  END ------------------>
 
@@ -84,7 +84,7 @@ function openTab(evt, tabName) {
 
   // Show the current tab, and add an "active" class to the button that opened the tab
   document.getElementById(tabName).style.display = "block";
-  evt.currentTarget.className += " active";
+  evt.currentTarget.className += " activeTab";
 } 
 
     document.getElementById("defaultOpen").click();

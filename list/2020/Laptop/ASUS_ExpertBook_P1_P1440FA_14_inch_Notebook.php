@@ -5,4 +5,4 @@ $PD_price = '33,001.00';
 $PD_img = 'https://images-na.ssl-images-amazon.com/images/I/71%2BRFI3ipGL._SL1500_.jpg'; 
 $PD_link = 'https://amzn.to/2UW05b3'; 
 
-include '../assets/PD.php';
+include 'components/PD.php';
