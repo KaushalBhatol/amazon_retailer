@@ -17,8 +17,17 @@
  - we are just retailler.
  - website for peoples help to contact to **Palanpur City** delivery centers.
  
+## v1.2 (Latest) - beta
+> idea :brain:
+- using tabs for every single link action
+- fixing pages
 
-## v1.1 (Latest)
+> Log (02,Jan-2021)
+- started v1.2 devlopment
+
+## v1.1 - stable
+> Repository :file_folder:
+ v1.1 releases  : https://github.com/KaushalBhatol/amazon_palanpur/releases/tag/v1.1
 
 > Log (30,Dec-2020) 
 - footer.php (added php for auto year change.)
