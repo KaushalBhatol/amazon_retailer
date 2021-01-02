@@ -15,9 +15,10 @@
             </div>
             <!-- End: Intro -->
             <!-- Start: Buttons -->
-            <div class="buttons">
+            <div class="buttons"> 
                 <a class="btn btn-primary" role="button" href="TopDeals">Top Deals</a>
                 <a class="btn btn-primary" role="button" href="Delivery.php">Delivery</a></div>         
             <!-- End: Buttons -->
         </div>
     </div>
+    <?php include 'footer.php' ?>
