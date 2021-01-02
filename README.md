@@ -17,12 +17,20 @@
  - we are just retailler.
  - website for peoples help to contact to **Palanpur City** delivery centers.
  
-## v1.2 (Latest) - beta
+## v1.2 (Latest) - beta 
 > idea :brain:
 - using tabs for every single link action
 - fixing pages
 
 > Log (02,Jan-2021)
+- added
+    + index.tab.php
+    + tab.php
+    + assets/css/tab.css
+    + assets/js/tab.js
+
+- updated list/include.txt
+- removed assets/head.php
 - started v1.2 devlopment
 
 ## v1.1 - stable
