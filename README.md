@@ -19,7 +19,7 @@
  
 ## v1.2 (Latest) - beta 
 > Documents :file_folder:
-- log : log/v1.2.md
+- log : https://github.com/KaushalBhatol/amazon_palanpur/tree/master/log/v1.2.md
 
 > idea :brain:
 - using tabs for every single link action
@@ -29,7 +29,7 @@
 
 ## v1.1 - stable
 > Documents :file_folder:
-- log : log/v1.1.md
+- log : https://github.com/KaushalBhatol/amazon_palanpur/tree/master/log/v1.1.md
  - v1.1 releases  : https://github.com/KaushalBhatol/amazon_palanpur/releases/tag/v1.1
 
 
