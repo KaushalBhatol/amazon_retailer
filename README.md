@@ -27,7 +27,7 @@
 
 ## v1.1 - stable
 > Repository :file_folder:
- v1.1 releases  : https://github.com/KaushalBhatol/amazon_palanpur/releases/tag/v1.1
+ - v1.1 releases  : https://github.com/KaushalBhatol/amazon_palanpur/releases/tag/v1.1
 
 > Log (30,Dec-2020) 
 - footer.php (added php for auto year change.)
