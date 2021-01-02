@@ -27,7 +27,7 @@
   display: block;
   transition: 0.3s;
 }
-.sidenav a.activeTab {
+.sidenav a.active {
   background-color: blue;
 }
 .sidenav a:hover {
