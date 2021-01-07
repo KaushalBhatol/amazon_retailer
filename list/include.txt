@@ -5,4 +5,4 @@ $PD_price = '';
 $PD_img = ''; 
 $PD_link = ''; 
 
-include 'assets/PD.php';
+include 'components/PD.php';
