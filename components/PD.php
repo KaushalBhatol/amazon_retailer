@@ -7,7 +7,7 @@
             <div class="col" style="padding-left: 50px;">
                 <p style="margin-left: 14px;"><strong><?=$PD_text?></strong><br>Price:&nbsp;₹<strong><?=$PD_price?></strong><br><br>
                 <?=$PD_detail?><br>
-                <a href="<?=$PD_link?>"><strong><span style="text-decoration: underline;">Read more..</span></strong></a><br></p>
+                <a href="<?=$PD_link?>"><strong><span style="text-decoration: underline;">View Full Product Details On amazon.in</span></strong></a><br></p>
             </div>
         </div>
         <!-- End: -->
