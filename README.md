@@ -1,6 +1,10 @@
 <h1 align="center">Amazon Palanpur</h1> 
 <p align="center"><a href="http://amazon-palanpur.ml" target="_blank">View Site</a> | <a href="http://instagram.com/amazon_palanpur/" target="_blank">Support On Instagram</a></p>
 
+![version](https://img.shields.io/github/license/kaushalBhatol/amazon_palanpur)
+![version](https://img.shields.io/badge/version-1.2-blue)
+
+
 ## Licence :lock:
 > licence by [The Unlicense](https://github.com/KaushalBhatol/amazon_palanpur/blob/master/LICENSE) :key:
 
@@ -34,7 +38,6 @@
 > idea :brain:
 - using tabs for every single link action
 - fixing pages
-
 
 
 ## v1.1 - stable
