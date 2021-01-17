@@ -1,8 +1,8 @@
 <?php
-$PD_text = "";
+$PD_text   = "";
 $PD_detail = "";
-$PD_price = '';
-$PD_img = ''; 
-$PD_link = ''; 
+$PD_price  = '';
+$PD_img    = ''; 
+$PD_link   = ''; 
 
 include 'components/PD.php';
