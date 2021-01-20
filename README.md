@@ -21,11 +21,23 @@
  - we are just retailler.
  - website for peoples help to contact to **Palanpur City** delivery centers.
  
+## v1.2.2 - Beta
+> idea :brain:
+- want to creat lite site with all first page.
+- Second pages are open in new links.
+- add style in second page, (pagging)
+
+
+> Documents :file_folder:
+- log : https://github.com/KaushalBhatol/amazon_palanpur/tree/master/log/v1.2.2.md
+
+
+
 ## v1.2 - stable
 > feture :star:
 - All website in single url
 - all pages in tabs
-- active style aplayed
+- active style aplayed (menu bar).
 
 > bug :bug:
 - site load slowely
@@ -34,16 +46,12 @@
 
 > Documents :file_folder:
 - log : https://github.com/KaushalBhatol/amazon_palanpur/tree/master/log/v1.2.md
-
-> idea :brain:
-- using tabs for every single link action
-- fixing pages
-
+- v1.1 releases  : https://github.com/KaushalBhatol/amazon_palanpur/releases/tag/v1.2
 
 ## v1.1 - stable
 > Documents :file_folder:
 - log : https://github.com/KaushalBhatol/amazon_palanpur/tree/master/log/v1.1.md
- - v1.1 releases  : https://github.com/KaushalBhatol/amazon_palanpur/releases/tag/v1.1
+- v1.1 releases  : https://github.com/KaushalBhatol/amazon_palanpur/releases/tag/v1.1
 
 
 
