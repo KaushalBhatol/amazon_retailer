@@ -47,7 +47,7 @@
 
 > Documents :file_folder:
 - log : https://github.com/KaushalBhatol/amazon_palanpur/tree/master/log/v1.2.md
-- v1.1 releases  : https://github.com/KaushalBhatol/amazon_palanpur/releases/tag/v1.2
+- v1.2 releases  : https://github.com/KaushalBhatol/amazon_palanpur/releases/tag/v1.2
 
 ## v1.1 - stable
 > Documents :file_folder:
