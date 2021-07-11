@@ -5,8 +5,6 @@
 ![version](https://img.shields.io/github/license/kaushalBhatol/amazon_palanpur)
 ![version](https://img.shields.io/badge/version-1.2.2-blue)
 
-__⚠ Note__: Current version 1.2.2 is __full of bugs__ for using stable one please use [v1.2](https://github.com/KaushalBhatol/amazon_palanpur/releases/tag/v1.2)
-
 ## Licence :lock:
 
 > licence by [The Unlicense](https://github.com/KaushalBhatol/amazon_palanpur/blob/master/LICENSE) :key:
@@ -26,7 +24,7 @@ __⚠ Note__: Current version 1.2.2 is __full of bugs__ for using stable one ple
 
 ## v1.2.2 - Stable
 
-* Pleaser read [v1.2.2.md](MD/v1.2.2.md) file for current bug and state
+* Please read [v1.2.2.md](MD/v1.2.2.md) file for current bug and state
 * For knowing how all work read our [alorythom](MD/Algorythm.md)
 * Main attraction is site name changed from Amazon Palanpur to Amazon Retailer
 

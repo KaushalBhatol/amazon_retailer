@@ -2,6 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://amazon.retailer.unaux.com/</loc>
-    <lastmod>2020-01-02</lastmod>
+    <lastmod>2021-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://amazon.retailer.unaux.com/page/TopDeals</loc>
+    <lastmod>2021-07-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://amazon.retailer.unaux.com/page/Laptop</loc>
+    <lastmod>2021-07-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://amazon.retailer.unaux.com/page/Men_Clothes</loc>
+    <lastmod>2021-07-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://amazon.retailer.unaux.com/page/Mobile</loc>
+    <lastmod>2021-07-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://amazon.retailer.unaux.com/page/other</loc>
+    <lastmod>2021-07-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://amazon.retailer.unaux.com/page/Women_Dress</loc>
+    <lastmod>2021-07-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
