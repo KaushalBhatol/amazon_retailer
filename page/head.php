@@ -7,7 +7,7 @@
     <meta property="og:type" content="website">
     <meta name="description" content="<?=$Meta_description?>">
     
-    <link rel="icon" type="image/png" sizes="150x150" href="../assets/img/icon/amazon.png">
+    <link rel="icon" type="image/png" sizes="150x150" href="../../assets/img/icon/amazon.png">
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="../../assets/css/styles.min.css">
