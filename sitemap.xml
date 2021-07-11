@@ -7,37 +7,37 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://amazon.retailer.unaux.com/page/TopDeals</loc>
+    <loc>http://amazon.retailer.unaux.com/page/TopDeals/</loc>
     <lastmod>2021-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>http://amazon.retailer.unaux.com/page/Laptop</loc>
+    <loc>http://amazon.retailer.unaux.com/page/Laptop/</loc>
     <lastmod>2021-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://amazon.retailer.unaux.com/page/Men_Clothes</loc>
+    <loc>http://amazon.retailer.unaux.com/page/Men_Clothes/</loc>
     <lastmod>2021-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://amazon.retailer.unaux.com/page/Mobile</loc>
+    <loc>http://amazon.retailer.unaux.com/page/Mobile/</loc>
     <lastmod>2021-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://amazon.retailer.unaux.com/page/other</loc>
+    <loc>http://amazon.retailer.unaux.com/page/other/</loc>
     <lastmod>2021-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://amazon.retailer.unaux.com/page/Women_Dress</loc>
+    <loc>http://amazon.retailer.unaux.com/page/Women_Dress/</loc>
     <lastmod>2021-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
