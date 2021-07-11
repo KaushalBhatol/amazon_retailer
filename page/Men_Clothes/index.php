@@ -9,6 +9,5 @@
     include '../../Product/2020/MenClothe/PAUSE_Men_Cotton_Collared_Neck_Cardigan.php';
     // This Is Line No 17 
 
-    include 'page.php';
     include '../footer.php';
 ?>

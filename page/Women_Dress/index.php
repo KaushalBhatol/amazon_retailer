@@ -11,6 +11,5 @@
     include '../../Product/2020/WomenDress/MARUTINANDAN_NX_Womens_Taffeta_Benglori_Satin_Semi-Stitched_Lehenga_Choli.php';
     // This Is Line No 17 
 
-    include 'page.php';
     include '../footer.php';
 ?>
