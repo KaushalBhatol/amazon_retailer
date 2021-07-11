@@ -24,10 +24,11 @@ __⚠ Note__: Current version 1.2.2 is __full of bugs__ for using stable one ple
 * we are just retailler.
 * website for peoples help to contact to **Palanpur City** delivery centers.
 
-## v1.2.2 - Unstable
+## v1.2.2 - Stable
 
 * Pleaser read [v1.2.2.md](MD/v1.2.2.md) file for current bug and state
 * For knowing how all work read our [alorythom](MD/Algorythm.md)
+* Main attraction is site name changed from Amazon Palanpur to Amazon Retailer
 
 > Documents :file_folder:
 
