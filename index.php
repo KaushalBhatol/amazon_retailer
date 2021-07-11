@@ -21,14 +21,14 @@
 
     <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
 
-    <a class='tablinks' onclick="closeNav(), openTab(event, 'Home')" id="defaultOpen">Home</a></li>
-    <a class='tablinks' onclick="closeNav(), openTab(event, 'Top_Deals')" >Top Deals</a></li>
-    <a class='tablinks' onclick="closeNav(), openTab(event, 'Delivery')">Delivery Info</a>
-    <a class='tablinks' onclick="closeNav(), openTab(event, 'Women_Dress')" >Wome's Dress</a></li>
-    <a class='tablinks' onclick="closeNav(), openTab(event, 'Men_Clothes')" >Men's Clothes</a></li>
-    <a class='tablinks' onclick="closeNav(), openTab(event, 'Mobiles')" >Mobiles</a>
-    <a class='tablinks' onclick="closeNav(), openTab(event, 'Laptops')" >Laptops</a>
-    <a class='tablinks' onclick="closeNav(), openTab(event, 'Other')" >Other</a>
+    <a class='tablinks' onclick="closeNav()" id="defaultOpen">Home</a></li>
+    <a class='tablinks' onclick="closeNav()" href="page/Top_Deals">Top Deals</a></li>
+    <a class='tablinks' onclick="closeNav()" href="page/Delivery">Delivery Info</a>
+    <a class='tablinks' onclick="closeNav()" href="page/Women_Dress">Wome's Dress</a></li>
+    <a class='tablinks' onclick="closeNav()" href="page/Men_Clothes">Men's Clothes</a></li>
+    <a class='tablinks' onclick="closeNav()" href="page/Mobiles">Mobiles</a>
+    <a class='tablinks' onclick="closeNav()" href="page/Laptops">Laptops</a>
+    <a class='tablinks' onclick="closeNav()" href="page/Other">Other</a>
 
 </div>
     <!-- Start: gradient-navbar -->
@@ -41,7 +41,7 @@
 
 <div id="main">             <!-- -----------Body Area :  START ------------------>
 
-    <?php include 'tab.link.php'; ?>
+    <?php include 'page/Home/index.php'; ?>
 
 </div>             <!-- -----------Body Area :  END ------------------>
 
@@ -63,31 +63,6 @@ function closeNav() {
   document.getElementById("mySidenav").style.width = "0";
   document.getElementById("main").style.marginLeft= "0";
 }
-
-// -------------- tab css -----------------------
-
-function openTab(evt, tabName) {
-  // Declare all variables
-  var i, tabcontent, tablinks;
-
-  // Get all elements with class="tabcontent" and hide them
-  tabcontent = document.getElementsByClassName("tabcontent");
-  for (i = 0; i < tabcontent.length; i++) {
-    tabcontent[i].style.display = "none";
-  }
-
-  // Get all elements with class="tablinks" and remove the class "active"
-  tablinks = document.getElementsByClassName("tablinks");
-  for (i = 0; i < tablinks.length; i++) {
-    tablinks[i].className = tablinks[i].className.replace(" active", "");
-  }
-
-  // Show the current tab, and add an "active" class to the button that opened the tab
-  document.getElementById(tabName).style.display = "block";
-  evt.currentTarget.className += " active";
-} 
-
-    document.getElementById("defaultOpen").click();
 </script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
