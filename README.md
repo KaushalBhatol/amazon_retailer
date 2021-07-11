@@ -1,4 +1,4 @@
-# Amazon Palanpur
+# Amazon Retailer
 
 [View Published Site](http://amazon-palanpur.ml) or Support This page On [Instagram](http://instagram.com/amazon_palanpur/).
 

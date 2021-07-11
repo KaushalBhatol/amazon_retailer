@@ -1,10 +1,10 @@
 <?php
-    $title = 'Other';
+    $title = 'Laptop';
     $Meta_description = '';
     include '../head.php';
 
     // Product [Line Number 6]
-    include '../../Product/2021/Other/Mi_Corded_Cordless_Waterproof_Beard_Trimme.php';  
+    include '../../Product/2020/Laptop/ASUS_ExpertBook_P1_P1440FA_14_inch_Notebook.php';
     // This Is Line No 17 
 
     include 'page.php';

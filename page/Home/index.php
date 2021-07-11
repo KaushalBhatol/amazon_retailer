@@ -1,5 +1,5 @@
-    <!-- Start: Highlight Blue -->
-    <div class="highlight-blue">
+<!-- Start: Highlight Blue -->
+<div class="highlight-blue">
         <div class="container">
             <!-- Start: Intro -->
             <div class="intro">
@@ -9,8 +9,7 @@
             <!-- End: Intro -->
             <!-- Start: Buttons -->
             <div class="buttons"> 
-                <a class="btn btn-primary" role="button" href="page/Top_Deals">Top Deals</a>
-                <a class="btn btn-primary" role="button" href="page/Delivery">Delivery</a></div>         
+                <a class="btn btn-primary" role="button" href="page/TopDeals">Top Deals</a></div>         
             <!-- End: Buttons -->
         </div>
     </div>
