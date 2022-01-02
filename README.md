@@ -1,6 +1,6 @@
 # Amazon Retailer
 
-[View Published Site](http://amazon-palanpur.ml) or Support This page On [Instagram](http://instagram.com/amazon_palanpur/).
+[View Published Site](http://retailer.unaux.com/) or Support This page On [Instagram](http://instagram.com/amazon_palanpur/).
 
 ![version](https://img.shields.io/github/license/kaushalBhatol/amazon_palanpur)
 ![version](https://img.shields.io/badge/version-1.2.2-blue)
@@ -69,4 +69,4 @@
 ## Links
 
 *[Instagram Link](http://instagram.com/amazon_palanpur/)
-*[Published WEB LINK](http://amazon-palanpur.ml/)
+*[Published WEB LINK](http://retailer.unaux.com/)
