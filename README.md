@@ -37,13 +37,12 @@
 
 ## v1.2.2 - Stable
 
-- Please read [v1.2.2.md](MD/v1.2.2.md) file for current bug and state
-- For knowing how all work read our [alorythom](MD/Algorythm.md)
 - Main attraction is site name changed from Amazon Palanpur to Amazon Retailer
+- FIXED VISUAL ERRORS
 
 > Documents :file_folder:
 
-- [v1.2.2 pre-releases](https://github.com/KaushalBhatol/amazon_palanpur/releases/tag/v1.2.2)
+- [v1.2.2 releases](https://github.com/KaushalBhatol/amazon_palanpur/releases/tag/v1.2.2)
 
 ## v1.2 - stable
 
