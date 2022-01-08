@@ -1,11 +1,9 @@
 <?php
-    $title = 'Other';
-    $Meta_description = '';
-    include '../head.php';
+$title = 'Other';
+$Meta_description = '';
+$ROOT = '../../';                       // ROOT DIR FROM SPACIFIC THIS PAGE
+include $ROOT . 'page/head.php';        // HEAD.PHP DIRECTORY
+$limit = $oth;                         // PRODUCTS NUMBERS AVAILABLE ON SITE [PRODUCT/PRODUCTS_LIST.PHP]
+$folder_dir = $other_dir;                // FOLDER DIRECTORY FOR PRODUCT LISTING [HEAD.PHP]
 
-    // Product [Line Number 6]
-    include '../../Product/2021/Other/Mi_Corded_Cordless_Waterproof_Beard_Trimme.php';  
-    // This Is Line No 17 
-
-    include '../footer.php';
-?>
+include $base;

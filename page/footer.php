@@ -1,17 +1,20 @@
 <?php $year = date("Y"); ?>
 
-<div class="footer-basic"><p class="copyright"style="padding-top: 5px;padding-bottom: 10px;">Amazon Retailer © <?=$year?> <br></p></div>
+<div class="footer-basic">
+  <p class="copyright" style="padding-top: 5px;padding-bottom: 10px;"><?= $title ?> | Amazon Retailer - <?= $year ?> <br></p>
+</div>
 
-<script> //Side Nav bar script
-function openNav() {
-  document.getElementById("mySidenav").style.width = "250px";
-  document.getElementById("main").style.marginLeft = "250px";
-}
+<script>
+  //Side Nav bar script
+  function openNav() {
+    document.getElementById("mySidenav").style.width = "250px";
+    document.getElementById("main").style.marginLeft = "250px";
+  }
 
-function closeNav() {
-  document.getElementById("mySidenav").style.width = "0";
-  document.getElementById("main").style.marginLeft= "0";
-}
+  function closeNav() {
+    document.getElementById("mySidenav").style.width = "0";
+    document.getElementById("main").style.marginLeft = "0";
+  }
 </script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>

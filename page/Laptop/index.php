@@ -1,11 +1,9 @@
 <?php
-    $title = 'Laptop';
-    $Meta_description = '';
-    include '../head.php';
+$title = 'Laptop';
+$Meta_description = '';
+$ROOT = '../../';                       // ROOT DIR FROM SPACIFIC THIS PAGE
+include $ROOT . 'page/head.php';        // HEAD.PHP DIRECTORY
+$limit = $lap;                         // PRODUCTS NUMBERS AVAILABLE ON SITE [PRODUCT/PRODUCTS_LIST.PHP]
+$folder_dir = $laptop_dir;                // FOLDER DIRECTORY FOR PRODUCT LISTING [HEAD.PHP]
 
-    // Product [Line Number 6]
-    include '../../Product/2020/Laptop/ASUS_ExpertBook_P1_P1440FA_14_inch_Notebook.php';
-    // This Is Line No 17 
-
-    include '../footer.php';
-?>
+include $base;
