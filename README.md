@@ -6,7 +6,7 @@
 ![version](https://img.shields.io/badge/version-1.3-blue)
 
 - For any help got to below page
-  - [Q & A also HOWTO Page](HOWTO.md)
+  - [Q & A also HOWTO Page](https://kaushalbhatol.github.io/amazon_retailer/HOWTO.html)
 
 ## Licence :lock:
 
@@ -28,11 +28,11 @@
 ## v1.3 - Stable
 
 - Improved Readabilty of code
-- Commens added for helping programmer.
-- Shorted files and created loops
+- CommenTs added for helping programmer.
+- Shorted files code and created loops
 - New product adding proceess is much easier then v1.2.x
-- Logics aded for next page and privison page.
-- Aded HowTo file for helping peoples.
+- Logics added for next page and privison page.
+- Added HowTo file for helping peoples.
 - NOT CHANGED ANY VISUAL STYLE
 
 ## v1.2.2 - Stable

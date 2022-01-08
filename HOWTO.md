@@ -1,6 +1,6 @@
 # Q & A also HOWTO
 
-## How to add new product on similar_text?
+## How to add new product on site?
 
 - open /product/ folder
 - choose category folder
