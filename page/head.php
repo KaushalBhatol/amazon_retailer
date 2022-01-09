@@ -1,3 +1,24 @@
+<!-- <?php
+        // ----  PRODUCT QUANTITY -----
+        $lap = 1;   // laptop products
+        $mob = 3;   // Mobile products
+        $men = 3;   // Men clothes products
+        $oth = 1;   // Other products
+        $wod = 1;   // Women dress  
+
+        // ----- DIRECTORY SHORTCUTS-----
+        $footer = $ROOT . 'page/footer.php';
+        $product_dir = $ROOT . 'Product/';
+        $base = $ROOT . 'page/base.php';
+        $laptop_dir = $product_dir . 'Laptop/';
+        $menClothe_dir = $product_dir . 'MenClothe/';
+        $mobile_dir = $product_dir . 'Mobile/';
+        $other_dir = $product_dir . 'Other/';
+        $womenDress_dir = $product_dir . 'WomenDress/';
+        // $test_dir = $product_dir . 'test/';
+        ?> 
+        ---->
+
 <!DOCTYPE html>
 <html>
 
@@ -39,23 +60,3 @@
 </nav>
 
 <div id="main">
-
-    <!-- <?php
-            // ----  PRODUCT QUANTITY -----
-            $lap = 1;   // laptop products
-            $mob = 3;   // Mobile products
-            $men = 3;   // Men clothes products
-            $oth = 1;   // Other products
-            $wod = 1;   // Women dress  
-
-            // ----- DIRECTORY SHORTCUTS-----
-            $footer = $ROOT . 'page/footer.php';
-            $product_dir = $ROOT . 'Product/';
-            $base = $ROOT . 'page/base.php';
-            $laptop_dir = $product_dir . 'Laptop/';
-            $menClothe_dir = $product_dir . 'MenClothe/';
-            $mobile_dir = $product_dir . 'Mobile/';
-            $other_dir = $product_dir . 'Other/';
-            $womenDress_dir = $product_dir . 'WomenDress/';
-            ?> 
-        ---->

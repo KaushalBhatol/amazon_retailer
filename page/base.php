@@ -32,7 +32,7 @@ echo '
         <div class="container"><a class="navbar-brand" href="#">' .  $title . '</a>
             <div class="collapse navbar-collapse" id="navcol-1">
                 <ul class="nav navbar-nav ml-auto">';
-if ($i != $limit - 10) {
+if ($i != $limit - 10 && $limit > 10) {
     echo '<li class="nav-item"><a class="nav-link" href="' . $pre_page . '">Previous</a></li>';
 }
 if ($i != 0) {

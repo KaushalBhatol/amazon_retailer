@@ -9,14 +9,27 @@ include $ROOT . 'page/head.php';        // HEAD.PHP DIRECTORY
 //----------------------------------------------
 
 // ------------LOGIC FOR TOP DEALS: START--------------- \\
-$i = $mob;
-$folder_dir = $mobile_dir;
-for ($j = 1; $i >= 1; $i--, $j++) {
-
-    if ($j > 10)
-        break;      // condition for breaking loop
-
-    include $folder_dir .  $i . '.php';
+for ($i = 0; $i < 5; $i++) {
+    if ($mob > 0) {
+        include $mobile_dir .  $mob . '.php';
+        $mob--;
+    }
+    if ($lap > 0) {
+        include $laptop_dir .  $lap . '.php';
+        $lap--;
+    }
+    if ($men > 0) {
+        include $menClothe_dir .  $men . '.php';
+        $men--;
+    }
+    if ($oth > 0) {
+        include $other_dir .  $oth . '.php';
+        $oth--;
+    }
+    if ($wod > 0) {
+        include $womenDress_dir .  $wod  . '.php';
+        $wod--;
+    }
 }
 // -------------LOGIC FOR TOP DEALS: END--------------- \\
 
